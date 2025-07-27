@@ -15,9 +15,8 @@ iNotebook is a full-stack note-taking web application built with the MERN stack 
 
 **Frontend**:  
 - React.js  
-- Bootstrap / Custom CSS  
-- React Router DOM  
-- Axios  
+- Bootstrap
+- React Router DOM    
 
 **Backend**:  
 - Node.js  
@@ -25,12 +24,4 @@ iNotebook is a full-stack note-taking web application built with the MERN stack 
 - MongoDB with Mongoose  
 - JWT for authentication  
 - bcrypt for password hashing  
-- dotenv for environment variables  
 
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/inotebook.git
-cd inotebook
