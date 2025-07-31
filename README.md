@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,32 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# 📒 iNotebook - MERN Note-Taking App
+
+iNotebook is a full-stack note-taking web application built with the MERN stack (MongoDB, Express, React, Node.js). It allows users to sign up, log in, and manage their personal notes securely. Each user's notes are private and stored specifically to their authenticated account using JWT-based authentication.
+
+## 🔐 Features
+
+- ✅ User registration and secure login
+- ✅ JWT Authentication and Authorization
+- ✅ Add, edit, delete your own notes
+- ✅ Protected routes for logged-in users
+- ✅ Responsive and clean user interface
+- ✅ MongoDB Atlas / local database support
+
+## 🛠️ Tech Stack
+
+**Frontend**:  
+- React.js  
+- Bootstrap
+- React Router DOM    
+
+**Backend**:  
+- Node.js  
+- Express.js  
+- MongoDB with Mongoose  
+- JWT for authentication  
+- bcrypt for password hashing  
+
+>>>>>>> 3dda7bbc93617ada4a58dfa8bc6dd7f0510cd4d6
